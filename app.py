@@ -76,7 +76,7 @@ st.markdown('<h1 class="main-header">🎯 Ad Spend Optimization & Sales Performa
 # Navigation - This creates the page links
 page = st.navigation([
     st.Page("pages/1_Data_Exploration.py", title=" Data Exploration", icon="📈"),
-    st.Page("pages/2_Model_Comparison.py", title=" Model Comparison", icon="🤖"),
+    #st.Page("pages/2_Model_Comparison.py", title=" Model Comparison", icon="🤖"),
     st.Page("pages/3_Predictions.py", title=" Predictions", icon="🎯"),
     st.Page("pages/4_Final_Analysis.py", title=" Final Analysis", icon="💡"),
 ])
