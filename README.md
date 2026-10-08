@@ -8,7 +8,7 @@ An interactive machine learning dashboard for optimizing advertising spend and p
 
 ## 🚀 Live Demo
 
-[View the live application](https://your-app-url.streamlit.app) *(Update with your actual Streamlit Cloud URL)*
+[View the live application]([https://your-app-url.streamlit.app](https://ad-spend-optimize.streamlit.app/)) *(Update with your actual Streamlit Cloud URL)*
 
 ## 📊 Features
 
